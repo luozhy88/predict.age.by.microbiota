@@ -19,3 +19,10 @@ Predict age by microbiota
 7 skin sites in 71 healthy people over five days  
 #### 已发表文章
 [-] The Influence of Age and Gender on Skin-Associated ... - NCBI  
+
+
+### 可参考的文章
+The gut microbiome as a modulator of healthy ageing #总结有益菌  
+Microbiota succession throughout life from the cradle to the grave  
+Modeling the rate of senescence: can estimated biological age predict mortality more accurately than chronological age?  
+https://github.com/shihuang047/age-prediction  
