@@ -30,7 +30,7 @@ Modeling the rate of senescence: can estimated biological age predict mortality 
 https://github.com/shihuang047/age-prediction  
 
 
-## shotgun  
+## Shotgun  
 
 #### 数据来源  
 225samples SRA050230  
