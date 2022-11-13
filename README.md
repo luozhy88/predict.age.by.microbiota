@@ -31,11 +31,10 @@ https://github.com/shihuang047/age-prediction
 
 
 ## shotgun  
+
 #### 数据来源  
-
 225samples SRA050230  
-370samples SRP008047 
-
+370samples SRP008047  已全部下载
 #### 特征：性别，年龄（分类变量）
 #### 已发表文章
 Sex- and age-related trajectories of the adult human gut microbiota shared across populations of different ethnicities  -beijing
