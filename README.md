@@ -17,10 +17,7 @@ Predict age by microbiota
 上海 527人   
  elderly (50-60 years old), adults (25-35 years old) and adoles-cents (12-19 years old) elderly (50-60 years old), adults (25-35 years old) and adoles-cents (12-19 years old)  
 7 skin sites in 71 healthy people over five days  
-
-#### 数据来源  
-225samples SRA050230  
-370samples SRP008047  
+ 
 
 #### 已发表文章
 [-] The Influence of Age and Gender on Skin-Associated ... - NCBI  
@@ -31,3 +28,15 @@ The gut microbiome as a modulator of healthy ageing #总结有益菌
 Microbiota succession throughout life from the cradle to the grave  
 Modeling the rate of senescence: can estimated biological age predict mortality more accurately than chronological age?  
 https://github.com/shihuang047/age-prediction  
+
+
+## shotgun  
+#### 数据来源  
+
+225samples SRA050230  
+370samples SRP008047 
+
+#### 特征：性别，年龄（分类变量）
+#### 已发表文章
+Sex- and age-related trajectories of the adult human gut microbiota shared across populations of different ethnicities  -beijing
+
