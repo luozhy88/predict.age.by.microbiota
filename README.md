@@ -17,6 +17,11 @@ Predict age by microbiota
 上海 527人   
  elderly (50-60 years old), adults (25-35 years old) and adoles-cents (12-19 years old) elderly (50-60 years old), adults (25-35 years old) and adoles-cents (12-19 years old)  
 7 skin sites in 71 healthy people over five days  
+
+####数据来源
+225samples SRA050230  
+370samples SRP008047  
+
 #### 已发表文章
 [-] The Influence of Age and Gender on Skin-Associated ... - NCBI  
 
