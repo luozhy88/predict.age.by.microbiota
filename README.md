@@ -33,7 +33,7 @@ https://github.com/shihuang047/age-prediction
 ## Shotgun  
 
 #### 数据来源  
-225samples SRA050230  已全部下载
+225samples SRA050230  已全部下载  
 370samples SRP008047  已全部下载
 #### 特征：性别，年龄（分类变量）
 #### 已发表文章
