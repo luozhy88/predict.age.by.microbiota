@@ -1,6 +1,15 @@
 
 # Predict age by microbiota
 
+## Shotgun  
+
+  -  [ ] SRA050230 SRP008047
+      225samples SRA050230  已全部下载  
+      370samples SRP008047  已全部下载
+  -  特征 性别，年龄（分类变量）
+  -  已发表文章
+      Sex- and age-related trajectories of the adult human gut microbiota shared across populations of different ethnicities  -beijing
+
 ## 16S
   -  [ ] MGnifyR_MGYS00005154  PRJEB3079 ERP001500
   - 特征
@@ -25,13 +34,4 @@
     Modeling the rate of senescence: can estimated biological age predict mortality more accurately than chronological age?  
     https://github.com/shihuang047/age-prediction  
 
-
-## Shotgun  
-
-  -  [ ] SRA050230 SRP008047
-      225samples SRA050230  已全部下载  
-      370samples SRP008047  已全部下载
-  -  特征 性别，年龄（分类变量）
-  -  已发表文章
-      Sex- and age-related trajectories of the adult human gut microbiota shared across populations of different ethnicities  -beijing
 
